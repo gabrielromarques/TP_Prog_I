@@ -1,5 +1,5 @@
 /**
- * Autores: Gabriel de Resende e Igor Borges Kapitzky;
+ * Autores: Gabriel de Resende Oliveira Marques e Igor Borges Kapitzky;
  * Disciplina: Programa��o 1 - 2024/2;
  * Trabalho pr�tico;
  * Programa que simula um ca�a palavras est�tico para dois jogadores;
